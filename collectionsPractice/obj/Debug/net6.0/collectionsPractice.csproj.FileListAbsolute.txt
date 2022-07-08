@@ -1,0 +1,15 @@
+C:\Users\chris.g.morton\cdojo\collectionsPractice\bin\Debug\net6.0\collectionsPractice.exe
+C:\Users\chris.g.morton\cdojo\collectionsPractice\bin\Debug\net6.0\collectionsPractice.deps.json
+C:\Users\chris.g.morton\cdojo\collectionsPractice\bin\Debug\net6.0\collectionsPractice.runtimeconfig.json
+C:\Users\chris.g.morton\cdojo\collectionsPractice\bin\Debug\net6.0\collectionsPractice.dll
+C:\Users\chris.g.morton\cdojo\collectionsPractice\bin\Debug\net6.0\collectionsPractice.pdb
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.AssemblyReference.cache
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfoInputs.cache
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.AssemblyInfo.cs
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.dll
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\refint\collectionsPractice.dll
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.pdb
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\collectionsPractice.genruntimeconfig.cache
+C:\Users\chris.g.morton\cdojo\collectionsPractice\obj\Debug\net6.0\ref\collectionsPractice.dll

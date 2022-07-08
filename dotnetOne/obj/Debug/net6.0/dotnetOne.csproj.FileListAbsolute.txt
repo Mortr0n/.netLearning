@@ -1,0 +1,15 @@
+C:\Users\chris.g.morton\cdojo\dotnetOne\bin\Debug\net6.0\dotnetOne.exe
+C:\Users\chris.g.morton\cdojo\dotnetOne\bin\Debug\net6.0\dotnetOne.deps.json
+C:\Users\chris.g.morton\cdojo\dotnetOne\bin\Debug\net6.0\dotnetOne.runtimeconfig.json
+C:\Users\chris.g.morton\cdojo\dotnetOne\bin\Debug\net6.0\dotnetOne.dll
+C:\Users\chris.g.morton\cdojo\dotnetOne\bin\Debug\net6.0\dotnetOne.pdb
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.csproj.AssemblyReference.cache
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.AssemblyInfoInputs.cache
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.AssemblyInfo.cs
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.csproj.CoreCompileInputs.cache
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.dll
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\refint\dotnetOne.dll
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.pdb
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\dotnetOne.genruntimeconfig.cache
+C:\Users\chris.g.morton\cdojo\dotnetOne\obj\Debug\net6.0\ref\dotnetOne.dll
